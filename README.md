@@ -42,24 +42,24 @@
 ---
 <div align="center">
   <span align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan0119&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Heshan0119"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan0119&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Heshan0119"/>
   </span>
 </div>
 
 ---
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Heshan0119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Heshan0119"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=heshan0119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Heshan0119"/>
   </div>
 
 ---
 
 <div align="center">
-    <img src = "https://streak-stats.demolab.com/?user=Heshan0119&theme=tokyonight&hide_border=true" alt = "Heshan0119"/> 
+    <img src = "https://streak-stats.demolab.com/?user=heshan0119&theme=tokyonight&hide_border=true" alt = "Heshan0119"/> 
   </div>
 
 ---
 
 <div align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=Heshan0119&theme=dracula&no-frame=true&no-bg=true&margin-w=2&column=-1" alt = "Heshan0119"/> 
+    <img src = "https://github-profile-trophy.vercel.app/?username=heshan0119&theme=dracula&no-frame=true&no-bg=true&margin-w=2&column=-1" alt = "Heshan0119"/> 
 </div>
