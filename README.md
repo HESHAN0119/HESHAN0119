@@ -48,15 +48,15 @@
 
 ---
 
-<div align="center">
-  <span align="center">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Heshan0119&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Heshan0119"/>
-  </span>
+  </div>
 
-  <span align="center">
+---
+
+<div align="center">
     <img src = "https://streak-stats.demolab.com/?user=Heshan0119&theme=tokyonight&hide_border=true" alt = "Heshan0119"/> 
-  </span>
-</div>
+  </div>
 
 ---
 
