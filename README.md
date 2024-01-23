@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Reactjs,Spring Boot and Machine Learningt**
+- 🌱 I’m currently learning **Reactjs, Spring Boot, Machine Learning and Docker**
 
 - 📫 How to reach me **heshanravindu1999@gmail.com**
 ---
